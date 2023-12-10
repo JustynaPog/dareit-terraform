@@ -1,4 +1,4 @@
-The goal of this task was to create CI/CD pipeline and understand the principles of the CI/CD practice.
+#The goal of this task was to create CI/CD pipeline and understand the principles of the CI/CD practice.#
 1. Creating a Service Account for Terraform and generate JSON key.
 2. Creating a bucket, which will store the terraform state file.
 3. Creating a new repository in Github and in Actions section add repository secret (our JSON key).
